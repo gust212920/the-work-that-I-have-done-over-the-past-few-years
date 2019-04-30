@@ -3,10 +3,8 @@
 
 # the-work-that-I-have-done-over-the-past-few-years:
 
-well my repository says what it means
-
-
-<h1> idk if this works but im trying anyways as I attempt to see if this works<h1/>
+<h1> inspired by many cases of history jailbreak a game where Jack wellington the imfamous artist of explosives has been put into essex jail to prevent him from breaking out<h1/>
+ 
  <h2>h2<h2/>
   <h3>now how do I add stuff in<h3/>
     <img src="/gust212920/the-work-that-I-have-done-over-the-past-few-years/master/Capture.PNG">
